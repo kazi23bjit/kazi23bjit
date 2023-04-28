@@ -1,3 +1,5 @@
+![web-development-banner](https://user-images.githubusercontent.com/130432314/235038929-e047f2bd-01a8-4f01-a0cb-76ddbc3b563b.gif)
+
 <h1 align="center">Hi 👋, I'm Kazi Md Nazmul Hoque</h1>
 <h3 align="center">Trainee Engineer(Java2EE)|BJIT Academy</h3>
 
