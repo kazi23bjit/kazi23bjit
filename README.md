@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **as a Trainee Software Engineer(Java2EE) at BJIT Academy. Here, I am learning Full Stack Web Development using.**
 
-- # what am i working on 🌱  
+  # what am i working on 🌱  
 - I’m currently learning **Java, Spring framework, AWS, and frontend. I believe that continuous learning is the key to success.**
 
 - 💬 Ask me about **TOPIC: SDLC, Java, design pattern, Git**
