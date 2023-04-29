@@ -1,11 +1,11 @@
 ![web-development-banner](https://user-images.githubusercontent.com/130432314/235038929-e047f2bd-01a8-4f01-a0cb-76ddbc3b563b.gif)
 
-<h1 align="center">Hi 👋, I'm Kazi Md Nazmul Hoque</h1>
+<h1 align="center"># Hi 👋, I'm Kazi Md Nazmul Hoque</h1>
 <h3 align="center">Trainee Engineer(Java2EE)|BJIT Academy</h3>
 
 - 🔭 I’m currently working on **as a Trainee Software Engineer(Java2EE) at BJIT Academy. Here, I am learning Full Stack Web Development using.**
 
-- 🌱 I’m currently learning **Java, Spring framework, AWS, and frontend. I believe that continuous learning is the key to success.**
+- 🌱#what am i working on <br/> I’m currently learning **Java, Spring framework, AWS, and frontend. I believe that continuous learning is the key to success.**
 
 - 💬 Ask me about **TOPIC: SDLC, Java, design pattern, Git**
 
