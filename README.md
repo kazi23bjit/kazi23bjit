@@ -33,3 +33,9 @@ I am a passionate web developer, who is learning the crafts of creating full sta
 ## 🌟 Projects
 - E-commerce website:Built an e-commerce website for a water filter dealer. Technologies Used:Laravel, Mysql, Blade
 - Leave application: A personal project to manage the leave of the employees of compnay. Technologies Used: Javascript, NodeJS. 
+
+## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi23bjit&label=Profile%20views&color=0e75b6&style=flat" alt="kazi23bjit" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazi23bjit&show_icons=true&locale=en" alt="kazi23bjit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazi23bjit&" alt="kazi23bjit" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi23bjit" alt="kazi23bjit" /></a> </p>
