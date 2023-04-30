@@ -30,7 +30,11 @@ I am a passionate web developer, who is learning the crafts of creating full sta
 
 ## 🌟 Projects
 - **E-commerce website:** Built an e-commerce website for a water filter dealer. Technologies Used:Laravel, Mysql, Blade
-- **Leave application:**  A personal project to manage the leave of the employees of compnay. Technologies Used: Javascript, NodeJS. 
+- **Leave application:**  A personal project to manage the leave of the employees of compnay. Technologies Used: Java, Spring Boot. 
+
+## 🛠️ Links of Project
+- E-Commerce website: https://github.com/nazmulhoque23/lifewaterbd.git
+- Leave Application: https://github.com/nazmulhoque23/leaveApplication.git
 
 ## 🎓 Education
 - American International University-Bangladesh, BSc[CSE], 2020.
