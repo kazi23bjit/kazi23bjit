@@ -1,6 +1,6 @@
 ![web-development-banner](https://user-images.githubusercontent.com/130432314/235038929-e047f2bd-01a8-4f01-a0cb-76ddbc3b563b.gif)
 
-<h1 align="center"># Hi 👋, I'm Kazi Md Nazmul Hoque</h1>
+<h1 align="center"> Hi 👋, I'm Kazi Md Nazmul Hoque</h1>
 <h3 align="center">Trainee Engineer(Java2EE)|BJIT Academy</h3>
 
 I am a passionate web developer, who is learning the crafts of creating full stack web development currently in BJIT Academy.
