@@ -39,3 +39,6 @@ I am a passionate web developer, who is learning the crafts of creating full sta
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazi23bjit&show_icons=true&locale=en" alt="kazi23bjit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazi23bjit&" alt="kazi23bjit" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazi23bjit" alt="kazi23bjit" /></a> </p>
+
+## 💻 Github Repositories
+https://github.com/kazi23bjit
