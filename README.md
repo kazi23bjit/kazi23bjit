@@ -12,8 +12,8 @@ I am a passionate web developer, who is learning the crafts of creating full sta
    I’m currently learning Java, Spring framework, AWS, and frontend. I believe that combined with learning, continuous practice and implementation keeping in mind the real life scenario is the key to success.
 
   ## 💬 Ask me about 
-  **TOPIC:** SDLC, Java, design pattern, Git.
-  **Technologies:** Java, Spring, Javascript, Python, MySql.
+  <b>TOPIC:</b> SDLC, Java, design pattern, Git.
+  <b>Technologies:</b> Java, Spring, Javascript, Python, MySql.
 
 ## 📫 How to reach me
 <p align="left">
