@@ -17,11 +17,8 @@ I am a passionate web developer, who is learning the crafts of creating full sta
 
 ## 📫 How to reach me
 <p align="left">
-<a href="https://twitter.com/uks_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uks_77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uks1977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
 <a href="https://fb.com/uksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
-<a href="https://instagram.com/uksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uksaha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uks1977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uks1977" height="30" width="40" /></a>
 </p><br/>
 
 <p align="left">
