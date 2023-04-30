@@ -7,12 +7,22 @@ I am a passionate web developer, who is learning the crafts of creating full sta
 
 
   ## 👨🏽‍💻 What I'm working on
-   I’m currently working on **as a Trainee Software Engineer(Java2EE) at BJIT Academy. Here, I am learning Full Stack Web Development using.**
-   I’m currently learning **Java, Spring framework, AWS, and frontend. I believe that continuous learning is the key to success.**
+   I’m currently working as a Trainee Software Engineer(Java2EE) at BJIT Academy. Here, I am learning Full Stack Web Development using Java, Spring, Javascript. I have an experience of 3 months working on PHP and Laravel. 
+  ## 🧠 What I'm currently learning
+   I’m currently learning Java, Spring framework, AWS, and frontend. I believe that combined with learning, continuous practice and implementation keeping in mind the real life scenario is the key to success.
 
-- 💬 Ask me about **TOPIC: SDLC, Java, design pattern, Git**
+  ## 💬 Ask me about 
+  **TOPIC:** SDLC, Java, design pattern, Git.
+  **Technologies:**Java, Spring, Javascript, Python, MySql.
 
-- 📫 How to reach me **kazi.nazmul@bjitacademy.com**
+## 📫 How to reach me
+<p align="left">
+<a href="https://twitter.com/uks_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uks_77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/uks1977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uks1977" height="30" width="40" /></a>
+<a href="https://fb.com/uksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uksaha" height="30" width="40" /></a>
+<a href="https://instagram.com/uksaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uksaha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uks1977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uks1977" height="30" width="40" /></a>
+</p><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
