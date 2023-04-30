@@ -3,7 +3,7 @@
 <h1 align="center"> Hi 👋, I'm Kazi Md Nazmul Hoque</h1>
 <h3 align="center">Trainee Engineer(Java2EE)|BJIT Academy</h3>
 
-I am a passionate web developer, who is learning the crafts of creating full stack web development currently in BJIT Academy.
+I am a passionate web developer, who is learning the crafts of full stack web development currently at BJIT Academy.
 
 
   ## 👨🏽‍💻 What I'm working on
