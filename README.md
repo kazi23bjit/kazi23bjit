@@ -13,6 +13,7 @@ I am a passionate web developer, who is learning the crafts of creating full sta
 
   ## 💬 Ask me about 
   <b>TOPIC:</b> SDLC, Java, design pattern, Git.
+  
   <b>Technologies:</b> Java, Spring, Javascript, Python, MySql.
 
 ## 📫 How to reach me
